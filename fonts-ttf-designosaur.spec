@@ -60,3 +60,10 @@ EOF
 %verify(not mtime) %{_datadir}/fonts/TTF/designosaur/fonts.dir
 %{_xfontdir}/TTF/designosaur/fonts.scale
 %{_sysconfdir}/X11/fontpath.d/ttf-designosaur:pri=50
+
+
+%changelog
+* Wed Dec 14 2011 Dmitry Mikhirev <dmikhirev@mandriva.org> 20110526-1
++ Revision: 741139
+- imported package fonts-ttf-designosaur
+
