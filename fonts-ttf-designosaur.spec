@@ -3,7 +3,7 @@
 Summary:	Designosaur font family
 Name:		fonts-ttf-designosaur
 Version:	20110526
-Release:	1
+Release:	2
 License:	Creative Commons Attribution
 Group:		System/Fonts/True type
 URL:		http://openfontlibrary.org/font/designosaur
