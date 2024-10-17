@@ -6,7 +6,7 @@ Version:	20110526
 Release:	2
 License:	Creative Commons Attribution
 Group:		System/Fonts/True type
-URL:		http://openfontlibrary.org/font/designosaur
+URL:		https://openfontlibrary.org/font/designosaur
 Source0:	%{pkgname}.zip
 BuildArch:	noarch
 BuildRequires:	freetype-tools
